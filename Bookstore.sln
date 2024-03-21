@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookstore", "Bookstore\Bookstore.csproj", "{2C567F52-CE78-4AB3-83B5-08A2C709E3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C567F52-CE78-4AB3-83B5-08A2C709E3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C567F52-CE78-4AB3-83B5-08A2C709E3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C567F52-CE78-4AB3-83B5-08A2C709E3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C567F52-CE78-4AB3-83B5-08A2C709E3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
